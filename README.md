@@ -1,5 +1,5 @@
 # Rainfall-prediction-weither sunny or rainy
 run the app.py then in your local host http://127.0.0.1:5000/
 output seems like
-![image](https://user-images.githubusercontent.com/66308480/125159043-86531a00-e192-11eb-8de4-9c3b5d8239e4.png)
-![image](https://user-images.githubusercontent.com/66308480/125159049-9965ea00-e192-11eb-8dd1-cd0fef59605f.png)
+![WhatsApp Image 2021-07-13 at 9 48 40 PM](https://user-images.githubusercontent.com/66308480/125655678-4f30c64f-d944-4aad-a24c-d276f7dc5d5d.jpeg)
+![WhatsApp Image 2021-07-13 at 9 48 30 PM](https://user-images.githubusercontent.com/66308480/125655697-136058d7-cf55-4a7c-99c1-bf0e9d9d00a6.jpeg)
