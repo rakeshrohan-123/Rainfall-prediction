@@ -18,4 +18,7 @@ This dataset contains about 10 years of daily weather observations from many loc
 RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
 
 About Features
+
+
 ![image](https://user-images.githubusercontent.com/66308480/125657287-47009901-08de-4ecd-bd81-7e069bb06761.png)
+
